@@ -11,8 +11,7 @@
 
 
 ### TugasLatihan 5 
-
-![gambar output](gambar/soallatihan5.PNG)
+![gambar output](gambar/soallatihan5.png)
 
 ## Source Code Latihan 5
 ```python
@@ -299,7 +298,7 @@ while True:
 ```
 
 ## Hasil Output Praktikum 5
-![gambar output](gambar/hasilpraktikum5.png)
+![gambar output](gambar/hasil%20praktikum5.png)
 
 ## Hasil Database Dari Inputan  Praktikum 5
 ![gambar output](gambar/database5.png)
